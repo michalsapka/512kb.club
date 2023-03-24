@@ -2946,3 +2946,8 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
+  
+- domain: d-s.sh
+  url: http://d-s.sh/ (Make sure you keep the trailing slash)
+  size: 115
+  last_checked: 2023-03-24
